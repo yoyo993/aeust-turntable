@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>亞東科技大學美食拉霸</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>美食拉霸</h1>
+
+    <label for="categorySelect">選擇分類：</label>
+    <select id="categorySelect">
+      <option value="早午餐">早午餐</option>
+      <option value="便當">便當</option>
+      <option value="點心">點心</option>
+      <option value="小吃">小吃</option>
+      <option value="火鍋">火鍋</option>
+      <option value="其他大雜燴">其他大雜燴</option>
+      <option value="飲料">飲料</option>
+    </select>
+
+    <button id="startBtn">開始轉拉霸</button>
+    <button id="showAllBtn">顯示所有店家</button>
+
+    <div id="reel" class="reel">請點選開始</div>
+    <div id="results" class="results" style="display:none;"></div>
+
+    <div id="updateTime" class="update-time"></div>
+    <div id="nextUpdateTime" class="next-update-time"></div>
+    <p>以上資料僅供參考</p>
+    <a href="https://www.surveycake.com/s/DL610" target="_blank" rel="noopener noreferrer">協助我們建立更多店家資料</a>
+    
+  </div>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
