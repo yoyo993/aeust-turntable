@@ -688,7 +688,7 @@ const data = {
       "name": "老陝原汁牛肉麵",
       "address": "220新北市板橋區四川路二段47巷4弄6號",
       "mapUrl": "https://maps.app.goo.gl/W2XWJosCq8Rg7Qke8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.3/5(319則評價)",
       "phone": "0289666033",
       "openHours": {
         "一": "10:30–14:30/16:30–19:40",
@@ -704,7 +704,7 @@ const data = {
       "name": "粩泰泰",
       "address": "220新北市板橋區四川路二段47巷4弄6號",
       "mapUrl": "https://maps.app.goo.gl/JVcTLuGNAVhep2Ay8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.1/5(437則評價)",
       "phone": "0289660308",
       "openHours": {
         "一": "11:00–15:00/16:30–20:00",
@@ -720,7 +720,7 @@ const data = {
       "name": "板橋北方牛肉麵",
       "address": "220新北市板橋區四川路二段47巷4弄4號",
       "mapUrl": "https://maps.app.goo.gl/9tDuRWz53xjrrc7u9",
-      "rating": "0/5(0則評價)",
+      "rating": "4.5/5(197則評價)",
       "phone": "0289670997",
       "openHours": {
         "一": "11:30–14:30/17:00–20:30",
@@ -736,7 +736,7 @@ const data = {
       "name": "會上癮",
       "address": "236新北市土城區廣明街104巷1號",
       "mapUrl": "https://maps.app.goo.gl/gpd2KM4WbmtWEtNE8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.1/5(227則評價)",
       "phone": "0289673377",
       "openHours": {
         "一": "12:00–23:00",
@@ -752,7 +752,7 @@ const data = {
       "name": "鮮大廣東粥",
       "address": "236新北市土城區廣明街102號",
       "mapUrl": "https://maps.app.goo.gl/4ZtbBMjgGPKGhmNw8",
-      "rating": "0/5(0則評價)",
+      "rating": "3.9/5(88則評價)",
       "phone": "0937065802",
       "openHours": {
         "一": "11:30–21:30",
@@ -768,7 +768,7 @@ const data = {
       "name": "尚好水煎包",
       "address": "220新北市板橋區四川路二段47巷3弄12號",
       "mapUrl": "https://maps.app.goo.gl/CRi6Duf3w5wm6byD7",
-      "rating": "0/5(0則評價)",
+      "rating": "3.4/5(46則評價)",
       "phone": "0289669913",
       "openHours": {
         "一": "06:00–19:30",
@@ -784,7 +784,7 @@ const data = {
       "name": "福樂水餃牛肉麵",
       "address": "220新北市板橋區德興街27號",
       "mapUrl": "https://maps.app.goo.gl/KRcrGkJqZuRwK9pp6",
-      "rating": "0/5(0則評價)",
+      "rating": "4/5(222則評價)",
       "phone": "0289668908",
       "openHours": {
         "一": "11:00–20:00",
@@ -1885,5 +1885,5 @@ const data = {
       }
     }
   ],
-  "lastUpdated": "2025-07-09 15:47:49"
+  "lastUpdated": "2025-07-09 15:51:12"
 };
