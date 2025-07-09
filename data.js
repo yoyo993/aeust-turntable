@@ -824,7 +824,7 @@ const data = {
       "name": "玉芳越南小吃",
       "address": "222新北市板橋區四川路二段47巷8弄4號",
       "mapUrl": "https://maps.app.goo.gl/Zv2kbcKR9gsuSSvz5",
-      "rating": "0/5(0則評價)",
+      "rating": "3.9/5(66則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "08:00–21:00",
@@ -840,7 +840,7 @@ const data = {
       "name": "肉焿·魷魚焿·羊肉焿·肉圓",
       "address": "236新北市土城區廣明街85巷2號",
       "mapUrl": "https://maps.app.goo.gl/t7JhGtZ4Nm6jkPvD9",
-      "rating": "0/5(0則評價)",
+      "rating": "4.3/5(12則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "11:00–19:00",
@@ -856,7 +856,7 @@ const data = {
       "name": "路邊攤雞滷飯",
       "address": "236新北市土城區廣明街83號",
       "mapUrl": "https://maps.app.goo.gl/mYR49uZ4dzTD16Ni6",
-      "rating": "0/5(0則評價)",
+      "rating": "4/5(226則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "06:00–20:30",
@@ -872,7 +872,7 @@ const data = {
       "name": "派克脆皮雞排",
       "address": "236新北市土城區廣明街87號",
       "mapUrl": "https://maps.app.goo.gl/r98YoMCcwJFGVso27",
-      "rating": "0/5(0則評價)",
+      "rating": "4/5(244則評價)",
       "phone": "0289668138",
       "openHours": {
         "一": "休",
@@ -888,7 +888,7 @@ const data = {
       "name": "91號咖喱",
       "address": "236新北市土城區廣明街91號",
       "mapUrl": "https://maps.app.goo.gl/B46rZcSibimyTrU99",
-      "rating": "0/5(0則評價)",
+      "rating": "4.9/5(1964則評價)",
       "phone": "0289666768",
       "openHours": {
         "一": "11:00–20:30",
@@ -1885,5 +1885,5 @@ const data = {
       }
     }
   ],
-  "lastUpdated": "2025-07-09 15:58:36"
+  "lastUpdated": "2025-07-09 16:01:46"
 };
