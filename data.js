@@ -4,7 +4,7 @@ const data = {
       "name": "舒肥底家",
       "address": "220新北市板橋區四川路二段99-1號",
       "mapUrl": "https://maps.app.goo.gl/WGoJdPCw4wsC9ZMp6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.1/5(122則評價)",
       "phone": "0965353557",
       "openHours": {
         "一": "11:00–13:30/16:30–20:00",
@@ -20,7 +20,7 @@ const data = {
       "name": "蒹葭油飯工作室",
       "address": "22061新北市板橋區四川路二段99巷4弄5號",
       "mapUrl": "https://maps.app.goo.gl/uQo2yUyxhYZ2nDwt6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.9/5(159則評價)",
       "phone": "0983688097",
       "openHours": {
         "一": "無資料",
@@ -36,7 +36,7 @@ const data = {
       "name": "享時雞肉飯",
       "address": "220新北市板橋區四川路二段99巷4弄7號",
       "mapUrl": "https://maps.app.goo.gl/yMT5vbZVR92EWs9y8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.4/5(180則評價)",
       "phone": "0289660095",
       "openHours": {
         "一": "11:00–19:00",
@@ -52,7 +52,7 @@ const data = {
       "name": "GET POWER 給力盒子",
       "address": "220新北市板橋區四川路二段47巷1號",
       "mapUrl": "https://maps.app.goo.gl/Fta8Em1qMfoLVQnWA",
-      "rating": "0/5(0則評價)",
+      "rating": "3.5/5(108則評價)",
       "phone": "0289663696",
       "openHours": {
         "一": "10:30–14:00/16:00–19:30",
@@ -68,7 +68,7 @@ const data = {
       "name": "四海快餐",
       "address": "220新北市板橋區四川路二段47巷3弄3號",
       "mapUrl": "https://maps.app.goo.gl/mXivhVUNR8REVPdF8",
-      "rating": "0/5(0則評價)",
+      "rating": "3.9/5(423則評價)",
       "phone": "0289678675",
       "openHours": {
         "一": "10:30–20:00",
@@ -84,7 +84,7 @@ const data = {
       "name": "一三七港式燒臘",
       "address": "220新北市板橋區德興街37巷5號1樓",
       "mapUrl": "https://maps.app.goo.gl/TJaPiDCwyKLNC37Y7",
-      "rating": "0/5(0則評價)",
+      "rating": "4.6/5(167則評價)",
       "phone": "0289667265",
       "openHours": {
         "一": "11:00–13:30/17:00–19:30",
@@ -100,7 +100,7 @@ const data = {
       "name": "台北鵝肉直營店",
       "address": "236新北市土城區廣明街27號",
       "mapUrl": "https://maps.app.goo.gl/YWh9iFRBRHHDf4kU6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.0/5(53則評價)",
       "phone": "0289673308",
       "openHours": {
         "一": "16:00–01:00",
@@ -214,7 +214,7 @@ const data = {
       "name": "韓金智能拉麵店",
       "address": "220新北市板橋區四川路二段63號",
       "mapUrl": "https://maps.app.goo.gl/XYh7y1r8pD5G3FiL8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.8/5(610則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "24H",
@@ -230,7 +230,7 @@ const data = {
       "name": "丸川烏龍麵",
       "address": "220新北市板橋區四川路二段83號",
       "mapUrl": "https://maps.app.goo.gl/9xNin7AcUAgrFKPK9",
-      "rating": "0/5(0則評價)",
+      "rating": "4.9/5(1390則評價)",
       "phone": "0289669089",
       "openHours": {
         "一": "11:00–21:30",
@@ -246,7 +246,7 @@ const data = {
       "name": "避楓棠 私藏酒食",
       "address": "220新北市板橋區四川路二段93號",
       "mapUrl": "https://maps.app.goo.gl/66LQussRUqYSXp376",
-      "rating": "0/5(0則評價)",
+      "rating": "4.8/5(173則評價)",
       "phone": "0958096890",
       "openHours": {
         "一": "無資料",
@@ -262,7 +262,7 @@ const data = {
       "name": "柴田家炒泡麵専売店",
       "address": "220新北市板橋區四川路二段99巷13號１樓",
       "mapUrl": "https://maps.app.goo.gl/TrX3w17SDY4NBwx5A",
-      "rating": "0/5(0則評價)",
+      "rating": "4.9/5(149則評價)",
       "phone": "0289673043",
       "openHours": {
         "一": "休",
@@ -278,7 +278,7 @@ const data = {
       "name": "拉亞漢堡",
       "address": "220新北市板橋區德興街3號",
       "mapUrl": "https://maps.app.goo.gl/jNyHqLyuV2ctmobd8",
-      "rating": "0/5(0則評價)",
+      "rating": "3.7/5(47則評價)",
       "phone": "0289669007",
       "openHours": {
         "一": "06:00–13:30",
@@ -294,7 +294,7 @@ const data = {
       "name": "PIZZA HUT 必勝客",
       "address": "220新北市板橋區信義路16-5號",
       "mapUrl": "https://maps.app.goo.gl/FiuesLkqFGfqtyYu5",
-      "rating": "0/5(0則評價)",
+      "rating": "4.5/5(158則評價)",
       "phone": "0229533058",
       "openHours": {
         "一": "11:00–21:00",
@@ -310,7 +310,7 @@ const data = {
       "name": "起家雞韓式炸雞",
       "address": "220新北市板橋區信義路16-4號",
       "mapUrl": "https://maps.app.goo.gl/jwndkGPV6TrMpfqt5",
-      "rating": "0/5(0則評價)",
+      "rating": "4.7/5(482則評價)",
       "phone": "0229552125",
       "openHours": {
         "一": "11:00–21:00",
@@ -326,7 +326,7 @@ const data = {
       "name": "八方雲集",
       "address": "220新北市板橋區四川路二段40號",
       "mapUrl": "https://maps.app.goo.gl/FzfLFZLDD9EybnSd7",
-      "rating": "0/5(0則評價)",
+      "rating": "3.3/5(366則評價)",
       "phone": "0289668880",
       "openHours": {
         "一": "10:30–21:00",
@@ -342,7 +342,7 @@ const data = {
       "name": "食饕園",
       "address": "220新北市板橋區四川路二段47巷2弄2號",
       "mapUrl": "https://maps.app.goo.gl/GBvtB9wupZ8aMvHv5",
-      "rating": "0/5(0則評價)",
+      "rating": "4.4/5(422則評價)",
       "phone": "0289664579",
       "openHours": {
         "一": "09:00–20:30",
@@ -358,7 +358,7 @@ const data = {
       "name": "O'La 義麵坊",
       "address": "220新北市板橋區四川路二段47巷1弄2-2號",
       "mapUrl": "https://maps.app.goo.gl/J3CESkcykBBwi5jw8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.8/5(46則評價)",
       "phone": "0916290237",
       "openHours": {
         "一": "11:00–14:00/17:00–21:00",
@@ -374,7 +374,7 @@ const data = {
       "name": "素食麵線糊,章魚燒，炸物，燒餅",
       "address": "220新北市板橋區四川路二段47巷4弄",
       "mapUrl": "https://maps.app.goo.gl/yHX8PZD3SKPgJkfi6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.5/5(21則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "06:00–13:00",
@@ -390,7 +390,7 @@ const data = {
       "name": "口內口咖哩飯丼飯拉麵",
       "address": "23656新北市土城區四川路29巷42號",
       "mapUrl": "https://maps.app.goo.gl/4dTdnwUsnmEN4Bzq5",
-      "rating": "0/5(0則評價)",
+      "rating": "3.9/5(201則評價)",
       "phone": "0289660550",
       "openHours": {
         "一": "11:00–20:00",
@@ -406,7 +406,7 @@ const data = {
       "name": "甲賀飽炒飯炒麵店",
       "address": "220新北市板橋區四川路二段47巷6弄2號",
       "mapUrl": "https://maps.app.goo.gl/1q1FfZsdQDw7S36a6",
-      "rating": "0/5(0則評價)",
+      "rating": "3.8/5(191則評價)",
       "phone": "0289661965",
       "openHours": {
         "一": "11:00–14:00/16:00–21:00",
@@ -422,7 +422,7 @@ const data = {
       "name": "劉阿姨溫州大餛飩",
       "address": "220新北市板橋區四川路二段47巷11號",
       "mapUrl": "https://maps.app.goo.gl/z4Sd1uGgW26zuv9K8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.1/5(67則評價)",
       "phone": "0988752171",
       "openHours": {
         "一": "16:00–22:00",
@@ -438,7 +438,7 @@ const data = {
       "name": "健康素食",
       "address": "220新北市板橋區四川路二段47巷6弄3號",
       "mapUrl": "https://maps.app.goo.gl/ZZQioHptZwJUTT6w7",
-      "rating": "0/5(0則評價)",
+      "rating": "4.4/5(28則評價)",
       "phone": "0289660162",
       "openHours": {
         "一": "06:30–14:00",
@@ -1566,7 +1566,7 @@ const data = {
       "name": "COMEBUY_亞東醫院店",
       "address": "220新北市板橋區南雅南路二段138號",
       "mapUrl": "https://maps.app.goo.gl/MrESqokPfp4ALN9b8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.2/5(259則評價)",
       "phone": "0289677812",
       "openHours": {
         "一": "10:00–22:00",
@@ -1582,7 +1582,7 @@ const data = {
       "name": "50嵐",
       "address": "22061新北市板橋區四川路二段41號",
       "mapUrl": "https://maps.app.goo.gl/w2FSkYymsHnAptas7",
-      "rating": "0/5(0則評價)",
+      "rating": "3.8/5(422則評價)",
       "phone": "0289665500",
       "openHours": {
         "一": "10:00–22:00",
@@ -1598,7 +1598,7 @@ const data = {
       "name": "COMEBUY_亞東科大店",
       "address": "220新北市板橋區四川路二段47巷1弄2號",
       "mapUrl": "https://maps.app.goo.gl/2aiASHqBKvaCwbzU9",
-      "rating": "0/5(0則評價)",
+      "rating": "4.2/5(34則評價)",
       "phone": "0289668680",
       "openHours": {
         "一": "10:30–22:00",
@@ -1614,7 +1614,7 @@ const data = {
       "name": "清心福全",
       "address": "220新北市板橋區四川路二段47巷2弄1號",
       "mapUrl": "https://maps.app.goo.gl/qND2mY4G7VcseJkVA",
-      "rating": "0/5(0則評價)",
+      "rating": "3.9/5(120則評價)",
       "phone": "0289678282",
       "openHours": {
         "一": "09:30–21:30",
@@ -1630,7 +1630,7 @@ const data = {
       "name": "源森咖啡",
       "address": "236新北市土城區四川路29巷46號一樓",
       "mapUrl": "https://maps.app.goo.gl/7oSW4AizHSf2t2fR6",
-      "rating": "0/5(0則評價)",
+      "rating": "5.0/5(51則評價)",
       "phone": "0981107099",
       "openHours": {
         "一": "12:30–18:00",
@@ -1646,7 +1646,7 @@ const data = {
       "name": "紅茶洋行",
       "address": "236新北市土城區廣明街79號",
       "mapUrl": "https://maps.app.goo.gl/gVLUeBokFATfNiav5",
-      "rating": "0/5(0則評價)",
+      "rating": "3.1/5(27則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "10:00–23:00",
@@ -1664,7 +1664,7 @@ const data = {
       "name": "Octet Coffee Selection 八重奏咖啡沙龍",
       "address": "220新北市板橋區四川路二段31號",
       "mapUrl": "https://maps.app.goo.gl/bxBjVxpDmThCUDUQ6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.5/5(240則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "12:00–20:00",
@@ -1680,7 +1680,7 @@ const data = {
       "name": "茉茶冰城",
       "address": "220新北市板橋區四川路二段43號",
       "mapUrl": "https://maps.app.goo.gl/ULBNYYBjoJYfZBtK7",
-      "rating": "0/5(0則評價)",
+      "rating": "4.2/5(45則評價)",
       "phone": "0932007148",
       "openHours": {
         "一": "10:00–22:00",
@@ -1696,7 +1696,7 @@ const data = {
       "name": "炸老大",
       "address": "220新北市板橋區四川路二段47巷",
       "mapUrl": "https://maps.app.goo.gl/xvGSpVLprC58vkTH9",
-      "rating": "0/5(0則評價)",
+      "rating": "4.3/5(254則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "休",
@@ -1712,7 +1712,7 @@ const data = {
       "name": "相鯉紅豆餅",
       "address": "220新北市板橋區四川路二段47巷3弄1號",
       "mapUrl": "https://maps.app.goo.gl/Htoi4yVYWvu5QWNp6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.7/5(77則評價)",
       "phone": "0966157592",
       "openHours": {
         "一": "11:00–19:00",
@@ -1728,7 +1728,7 @@ const data = {
       "name": "壹咖啡",
       "address": "220新北市板橋區四川路二段47巷4弄3號",
       "mapUrl": "https://maps.app.goo.gl/rjSJuk1hN95WVdXC7",
-      "rating": "0/5(0則評價)",
+      "rating": "4.0/5(187則評價)",
       "phone": "0289678177",
       "openHours": {
         "一": "休",
@@ -1744,7 +1744,7 @@ const data = {
       "name": "樂鬆餅Love Song",
       "address": "220新北市板橋區四川路二段47巷3弄7號",
       "mapUrl": "https://maps.app.goo.gl/PXXLcPuBBxCrDkUc6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.7/5(197則評價)",
       "phone": "0289663316",
       "openHours": {
         "一": "11:00–19:30",
@@ -1760,7 +1760,7 @@ const data = {
       "name": "P.P.P Dessert 脆皮甜甜圈",
       "address": "220新北市板橋區四川路二段47巷3弄7號",
       "mapUrl": "https://maps.app.goo.gl/oUYLMAfpQreaqE3p8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.8/5(128則評價)",
       "phone": "0907734687",
       "openHours": {
         "一": "18:00–02:00",
@@ -1776,7 +1776,7 @@ const data = {
       "name": "超大雞排",
       "address": "220新北市板橋區四川路二段47巷6弄1號",
       "mapUrl": "https://maps.app.goo.gl/ufSwHksi5CVALVSf6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.5/5(52則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "16:00–22:00",
@@ -1792,7 +1792,7 @@ const data = {
       "name": "紅豆湯圓、燒仙草、桂圓粥",
       "address": "220新北市板橋區四川路二段47巷8弄10號",
       "mapUrl": "https://maps.app.goo.gl/FYQSM3DPq2BzaEFz5",
-      "rating": "0/5(0則評價)",
+      "rating": "5.0/5(9則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "13:00–22:30",
@@ -1808,7 +1808,7 @@ const data = {
       "name": "炸雞殿",
       "address": "236新北市土城區廣明街100號",
       "mapUrl": "https://maps.app.goo.gl/Zdei44XzRSh62Amz7",
-      "rating": "0/5(0則評價)",
+      "rating": "4.9/5(29則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "休",
@@ -1824,7 +1824,7 @@ const data = {
       "name": "曹媽媽鹹水雞",
       "address": "236新北市土城區廣明街100號",
       "mapUrl": "https://maps.app.goo.gl/cMwRCpBaHgNo6B7FA",
-      "rating": "0/5(0則評價)",
+      "rating": "4.7/5(82則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "16:30–21:30",
@@ -1840,7 +1840,7 @@ const data = {
       "name": "豆花伯",
       "address": "236新北市土城區廣明街94號",
       "mapUrl": "https://maps.app.goo.gl/k4TvVDcfMhiZ5LRP6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.7/5(10則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "12:00–21:00",
@@ -1856,7 +1856,7 @@ const data = {
       "name": "阿嬤ㄟ手工豆花",
       "address": "236新北市土城區廣明街45號",
       "mapUrl": "https://maps.app.goo.gl/gs6qpjXvazmWai679",
-      "rating": "0/5(0則評價)",
+      "rating": "4.1/5(37則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "11:00–22:00",
@@ -1872,7 +1872,7 @@ const data = {
       "name": "熊熊可麗餅",
       "address": "236新北市土城區廣明街13號",
       "mapUrl": "https://maps.app.goo.gl/gdZ9BLW45Dk813cP6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.9/5(53則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "15:00–19:00",
@@ -1885,5 +1885,5 @@ const data = {
       }
     }
   ],
-  "lastUpdated": "2025-07-10 08:56:37"
+  "lastUpdated": "2025-07-10 09:13:26"
 };
