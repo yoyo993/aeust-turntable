@@ -118,7 +118,7 @@ const data = {
       "name": "NU PASTA",
       "address": "220新北市板橋區南雅南路二段144巷2號",
       "mapUrl": "https://maps.app.goo.gl/nyhzkAtcbQaTaqxQ8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.5/5(3122則評價)",
       "phone": "0289663558",
       "openHours": {
         "一": "11:00–21:00",
@@ -134,7 +134,7 @@ const data = {
       "name": "薩莉亞",
       "address": "220新北市板橋區南雅南路二段122-23號",
       "mapUrl": "https://maps.app.goo.gl/KCqUaWvYDtKtTNgz9",
-      "rating": "0/5(0則評價)",
+      "rating": "4.0/5(2460則評價)",
       "phone": "0289661200",
       "openHours": {
         "一": "11:00–22:00",
@@ -150,7 +150,7 @@ const data = {
       "name": "Dicos德克士脆皮炸雞-板橋南雅店",
       "address": "22060新北市板橋區南雅南路二段122-23號",
       "mapUrl": "https://maps.app.goo.gl/jEc4A8z6g9enCcg19",
-      "rating": "0/5(0則評價)",
+      "rating": "4.3/5(3731則評價)",
       "phone": "0289676839",
       "openHours": {
         "一": "07:00–22:30",
@@ -166,7 +166,7 @@ const data = {
       "name": "鄧食味麵食館",
       "address": "220新北市板橋區南雅南路二段142巷2號",
       "mapUrl": "https://maps.app.goo.gl/Us1CdWbCh3o5oSY6A",
-      "rating": "0/5(0則評價)",
+      "rating": "3.8/5(981則評價)",
       "phone": "0289675887",
       "openHours": {
         "一": "休",
@@ -182,7 +182,7 @@ const data = {
       "name": "甲霸緊睏",
       "address": "220新北市板橋區德興街12號",
       "mapUrl": "https://maps.app.goo.gl/Gew3e4SJWMtro2YJ6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.9/5(793則評價)",
       "phone": "0289670070",
       "openHours": {
         "一": "17:00–00:00",
@@ -198,7 +198,7 @@ const data = {
       "name": "喜餃俱樂部-素食",
       "address": "220新北市板橋區德興街6號",
       "mapUrl": "https://maps.app.goo.gl/4CfHHsfZBDuMC1ZU8",
-      "rating": "0/5(0則評價)",
+      "rating": "4.4/5(47則評價)",
       "phone": "0289670795",
       "openHours": {
         "一": "11:00–19:00",
@@ -792,7 +792,7 @@ const data = {
       "name": "福樂水餃牛肉麵",
       "address": "220新北市板橋區德興街27號",
       "mapUrl": "https://maps.app.goo.gl/KRcrGkJqZuRwK9pp6",
-      "rating": "4/5(222則評價)",
+      "rating": "4.0/5(222則評價)",
       "phone": "0289668908",
       "openHours": {
         "一": "11:00–20:00",
@@ -808,7 +808,7 @@ const data = {
       "name": "牛鼎麵食館",
       "address": "220新北市板橋區德興街23號",
       "mapUrl": "https://maps.app.goo.gl/Ur8hM5XF7e3EpQd68",
-      "rating": "4/5(59則評價)",
+      "rating": "4.0/5(59則評價)",
       "phone": "0289661016",
       "openHours": {
         "一": "11:00–20:30",
@@ -856,7 +856,7 @@ const data = {
       "name": "路邊攤雞滷飯",
       "address": "236新北市土城區廣明街83號",
       "mapUrl": "https://maps.app.goo.gl/mYR49uZ4dzTD16Ni6",
-      "rating": "4/5(226則評價)",
+      "rating": "4.0/5(226則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "06:00–20:30",
@@ -872,7 +872,7 @@ const data = {
       "name": "派克脆皮雞排",
       "address": "236新北市土城區廣明街87號",
       "mapUrl": "https://maps.app.goo.gl/r98YoMCcwJFGVso27",
-      "rating": "4/5(244則評價)",
+      "rating": "4.0/5(244則評價)",
       "phone": "0289668138",
       "openHours": {
         "一": "休",
@@ -920,7 +920,7 @@ const data = {
       "name": "眼鏡豬血湯",
       "address": "236新北市土城區廣明街80號",
       "mapUrl": "https://maps.app.goo.gl/TqaTD3kiHpS8MEN16",
-      "rating": "4/5(354則評價)",
+      "rating": "4.0/5(354則評價)",
       "phone": "0289671169",
       "openHours": {
         "一": "休",
@@ -1162,7 +1162,7 @@ const data = {
       "name": "歐佳香漢堡店",
       "address": "220新北市板橋區南雅南路二段144巷12號",
       "mapUrl": "https://maps.app.goo.gl/SUnx6MHPMbbG7kwb6",
-      "rating": "4/5(29則評價)",
+      "rating": "4.0/5(29則評價)",
       "phone": "0289678046",
       "openHours": {
         "一": "05:00–13:00",
@@ -1194,7 +1194,7 @@ const data = {
       "name": "巨林美而美早餐店(板橋-南雅)",
       "address": "220台灣板橋區南雅南路二段144巷22號",
       "mapUrl": "https://maps.app.goo.gl/gsg8Hm4WQesR2t3v5",
-      "rating": "0/5(0則評價)",
+      "rating": "4.3/5(51則評價)",
       "phone": "0289667296",
       "openHours": {
         "一": "06:00–13:00",
@@ -1210,7 +1210,7 @@ const data = {
       "name": "OEC美味CEO 早午餐店",
       "address": "220新北市板橋區南雅南路二段144巷24號",
       "mapUrl": "https://maps.app.goo.gl/FpqGaKMFpED9iGvo9",
-      "rating": "0/5(0則評價)",
+      "rating": "4.2/5(285則評價)",
       "phone": "0289669728",
       "openHours": {
         "一": "06:00–14:00",
@@ -1226,7 +1226,7 @@ const data = {
       "name": "向陽",
       "address": "220新北市板橋區四川路二段47巷4弄17號",
       "mapUrl": "https://maps.app.goo.gl/TPnU9jHj1AMPoFE49",
-      "rating": "0/5(0則評價)",
+      "rating": "4.2/5(734則評價)",
       "phone": "0289662012",
       "openHours": {
         "一": "06:00–13:30",
@@ -1242,7 +1242,7 @@ const data = {
       "name": "呷の堡",
       "address": "220新北市板橋區四川路二段81巷",
       "mapUrl": "https://maps.app.goo.gl/gmpgqgse9wHdZRr97",
-      "rating": "0/5(0則評價)",
+      "rating": "3.3/5(23則評價)",
       "phone": "0289667911",
       "openHours": {
         "一": "04:30–13:00",
@@ -1258,7 +1258,7 @@ const data = {
       "name": "邁爾堡早餐宵夜店",
       "address": "236新北市土城區四川路27號",
       "mapUrl": "https://maps.app.goo.gl/2EVbYrewzAoBJTg98",
-      "rating": "0/5(0則評價)",
+      "rating": "3.9/5(264則評價)",
       "phone": "0289661803",
       "openHours": {
         "一": "00:00–13:30/21:30–00:00",
@@ -1274,7 +1274,7 @@ const data = {
       "name": "食月午日 Brunch & Cafe",
       "address": "220新北市板橋區四川路二段99巷4弄3號",
       "mapUrl": "https://maps.app.goo.gl/43oW3c4GcsTN59UH7",
-      "rating": "0/5(0則評價)",
+      "rating": "4.3/5(729則評價)",
       "phone": "0289666386",
       "openHours": {
         "一": "07:30–14:00",
@@ -1290,7 +1290,7 @@ const data = {
       "name": "都來家早午餐",
       "address": "220新北市板橋區德興街35號",
       "mapUrl": "https://maps.app.goo.gl/5sEHq3Fk5VPQqGjt6",
-      "rating": "0/5(0則評價)",
+      "rating": "3.8/5(113則評價)",
       "phone": "0289663192",
       "openHours": {
         "一": "05:30–14:00",
@@ -1306,7 +1306,7 @@ const data = {
       "name": "小蝸牛早餐店",
       "address": "220新北市板橋區德興街36號",
       "mapUrl": "https://maps.app.goo.gl/Fmtig1D9W2kYpGSP7",
-      "rating": "0/5(0則評價)",
+      "rating": "4.4/5(99則評價)",
       "phone": "無資料",
       "openHours": {
         "一": "05:00–13:00",
@@ -1322,7 +1322,7 @@ const data = {
       "name": "美晨早午餐",
       "address": "220新北市板橋區德興街37巷24號",
       "mapUrl": "https://maps.app.goo.gl/stPcFmAGcXbUozf18",
-      "rating": "0/5(0則評價)",
+      "rating": "3.7/5(180則評價)",
       "phone": "0289660186",
       "openHours": {
         "一": "05:30–14:00",
@@ -1338,7 +1338,7 @@ const data = {
       "name": "萬佳鄉",
       "address": "236新北市土城區廣明街87號",
       "mapUrl": "https://maps.app.goo.gl/vVG1NpYd6e6WfbQ47",
-      "rating": "0/5(0則評價)",
+      "rating": "3.9/5(130則評價)",
       "phone": "0289668138",
       "openHours": {
         "一": "休",
@@ -1354,7 +1354,7 @@ const data = {
       "name": "惠堡早午餐",
       "address": "236新北市土城區廣明街86號",
       "mapUrl": "https://maps.app.goo.gl/kdyNKkMSksdmJe4s6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.4/5(18則評價)",
       "phone": "0289666036",
       "openHours": {
         "一": "05:00–12:30",
@@ -1370,7 +1370,7 @@ const data = {
       "name": "喔嗨喲早餐店",
       "address": "236新北市土城區廣明街43號",
       "mapUrl": "https://maps.app.goo.gl/jfYrXyLyrCv1MYpj9",
-      "rating": "0/5(0則評價)",
+      "rating": "4.4/5(88則評價)",
       "phone": "0289672499",
       "openHours": {
         "一": "05:00–13:00",
@@ -1386,7 +1386,7 @@ const data = {
       "name": "紫米飯糰",
       "address": "236新北市土城區廣明街44號",
       "mapUrl": "https://maps.app.goo.gl/odprmNoFFCHrCQbQ9",
-      "rating": "0/5(0則評價)",
+      "rating": "4.2/5(25則評價)",
       "phone": "0931237799",
       "openHours": {
         "一": "05:30–11:00",
@@ -1402,7 +1402,7 @@ const data = {
       "name": "東方美",
       "address": "236新北市土城區廣明街29號",
       "mapUrl": "https://maps.app.goo.gl/wF5B2Qx3CYyghEVQ6",
-      "rating": "0/5(0則評價)",
+      "rating": "3.8/5(68則評價)",
       "phone": "0289674205",
       "openHours": {
         "一": "05:30–14:30",
@@ -1418,7 +1418,7 @@ const data = {
       "name": "板橋豆漿",
       "address": "236新北市土城區廣明街38號",
       "mapUrl": "https://maps.app.goo.gl/5L6P2FCvSymsw3Mx7",
-      "rating": "0/5(0則評價)",
+      "rating": "3.6/5(25則評價)",
       "phone": "0289673939",
       "openHours": {
         "一": "06:00–12:00",
@@ -1434,7 +1434,7 @@ const data = {
       "name": "宜蘭福氣包子店",
       "address": "236新北市土城區廣明街21號",
       "mapUrl": "https://maps.app.goo.gl/dZnViYnYHiTugW1W6",
-      "rating": "0/5(0則評價)",
+      "rating": "3.6/5(200則評價)",
       "phone": "0289673827",
       "openHours": {
         "一": "05:00–12:00",
@@ -1450,7 +1450,7 @@ const data = {
       "name": "呷尚寶",
       "address": "236新北市土城區廣明街26號",
       "mapUrl": "https://maps.app.goo.gl/Akfq7rDVCuWBesd18",
-      "rating": "0/5(0則評價)",
+      "rating": "3.8/5(133則評價)",
       "phone": "0289678666",
       "openHours": {
         "一": "05:00–13:00",
@@ -1466,7 +1466,7 @@ const data = {
       "name": "麥香早餐店",
       "address": "236新北市土城區廣明街18號",
       "mapUrl": "https://maps.app.goo.gl/9Wv6j9skG559Zyhp6",
-      "rating": "0/5(0則評價)",
+      "rating": "4.5/5(20則評價)",
       "phone": "0289660392",
       "openHours": {
         "一": "05:30–13:00",
@@ -1885,5 +1885,5 @@ const data = {
       }
     }
   ],
-  "lastUpdated": "2025-07-09 16:16:26"
+  "lastUpdated": "2025-07-10 08:56:37"
 };
